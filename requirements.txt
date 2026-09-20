@@ -1,3 +1,4 @@
 streamlit
 pymongo
 scikit-learn
+bcrypt
