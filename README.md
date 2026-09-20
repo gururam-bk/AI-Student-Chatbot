@@ -1,4 +1,3 @@
-# AI-Student-Chatbot
 # AI Student Assistant Chatbot
 
 An AI-powered student assistant chatbot built using Natural Language Processing (NLP) and Machine Learning to understand user queries and provide relevant responses.
